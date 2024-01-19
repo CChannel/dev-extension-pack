@@ -2,18 +2,20 @@
   "name": "cchannel-dev-extension-pack",
   "displayName": "CChannel Dev Extension Pack",
   "description": "Everything you need for development at CChannel",
-  "version": "0.0.1",
+  "publisher": "cchannel-dev",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "homepage": "https://www.corp.cchan.tv",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/CChannel/dev-extension-pack"
   },
-  "license": "UNLICENSED",
   "extensionPack": [
     "aaron-bond.better-comments",
     "adpyke.codesnap",
