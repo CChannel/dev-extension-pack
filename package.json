@@ -9,6 +9,11 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CChannel/dev-extension-pack"
+  },
+  "license": "UNLICENSED",
   "extensionPack": [
     "aaron-bond.better-comments",
     "adpyke.codesnap",
