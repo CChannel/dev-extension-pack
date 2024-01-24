@@ -3,7 +3,7 @@
   "displayName": "CChannel Dev Extension Pack",
   "description": "Everything you need for development at CChannel",
   "publisher": "cchannel-dev",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -66,6 +66,9 @@
     "ritwickdey.LiveServer",
     "shd101wyy.markdown-preview-enhanced",
     "svelte.svelte-vscode",
+    "ardenivanov.svelte-intellisense",
+    "fivethree.vscode-svelte-snippets",
+    "pivaszbs.svelte-autoimport",
     "vivaxy.vscode-conventional-commits",
     "vunguyentuan.vscode-postcss",
     "WallabyJs.quokka-vscode",
